@@ -1,0 +1,5 @@
+import {sqliteTable,text,integer,index} from 'drizzle-orm/sqlite-core';
+export const catalogEdits=sqliteTable('catalog_edits',{id:text('id').primaryKey(),data:text('data').notNull(),updatedAt:text('updated_at').notNull()});
+export const storeSettings=sqliteTable('store_settings',{id:text('id').primaryKey(),data:text('data').notNull(),updatedAt:text('updated_at').notNull()});
+export const inquiries=sqliteTable('inquiries',{id:text('id').primaryKey(),name:text('name').notNull(),email:text('email').notNull(),zip:text('zip').notNull(),items:text('items').notNull(),message:text('message').notNull(),status:text('status').notNull().default('new'),createdAt:text('created_at').notNull(),updatedAt:text('updated_at').notNull(),requestHash:text('request_hash').notNull(),window:integer('window').notNull()},t=>[index('inquiries_window_idx').on(t.requestHash,t.window)]);
+export const audit=sqliteTable('audit_log',{id:text('id').primaryKey(),action:text('action').notNull(),target:text('target').notNull(),createdAt:text('created_at').notNull()});

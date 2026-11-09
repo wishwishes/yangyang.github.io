@@ -1,0 +1,219 @@
+{
+  "source": "Trendsi public product catalogs",
+  "permission_reference": "https://help.trendsi.com/hc/en-us/articles/8337446644507-Can-I-sell-on-other-platforms-besides-Shopify",
+  "merchant_specific_permission": "pending",
+  "photographic_authenticity": "not independently verified",
+  "items": [
+    {
+      "id": "190717",
+      "source": "https://www.trendsi.com/products/detail?id=190717&name=V-Neck+Puff+Short+Sleeve+Midi+Dress&skuId=1326248",
+      "photos": [
+        {
+          "path": "/images/products/190717-1.webp",
+          "source": "https://statics.trendsi.com/pic/product1/d6be505e-a560-4e87-a8a9-a6303b2b4dfe-Max.webp",
+          "sha256": "f63a1eb4e34b688b7d79db3640272ae519ad88a8c1ecb8e95557b89aa2e0cb80"
+        },
+        {
+          "path": "/images/products/190717-2.webp",
+          "source": "https://statics.trendsi.com/pic/product1/41273783-a0f2-4027-b262-adf546c0fc48-Max.webp",
+          "sha256": "82e628fb87f94f19be4c7d8fbd1ea571c75395bba003cb0103552ac4e7540ab7"
+        },
+        {
+          "path": "/images/products/190717-3.webp",
+          "source": "https://statics.trendsi.com/pic/product1/6c291b2b-9141-44b2-9e77-e7eec6bcfb26-Max.webp",
+          "sha256": "d258f5fe8c0252193b9d4721a71b650b6776b67c731a1f9088944394e05c37bf"
+        }
+      ]
+    },
+    {
+      "id": "175279",
+      "source": "https://www.trendsi.com/products/detail?id=175279&name=Smocked+Back+Printed+Square+Neck+Maxi+Cami+Dress+with+Pockets&skuId=1244084",
+      "photos": [
+        {
+          "path": "/images/products/175279-1.webp",
+          "source": "https://statics.trendsi.com/pic/product1/bc736ebb-bd19-4b95-9317-052ceaa07e12-Max.webp",
+          "sha256": "cb5638dd6fe81059f2668547b22c7b2bcf49f98d6d81d5e91a64964806c0d4de"
+        },
+        {
+          "path": "/images/products/175279-2.webp",
+          "source": "https://statics.trendsi.com/pic/product1/0316c043-174f-4439-abc7-8b37dea1a559-Max.webp",
+          "sha256": "4e1cc742dcfa371a4abb7250e38b2c5e22ab1873f7496e13cb8a90736bbea586"
+        },
+        {
+          "path": "/images/products/175279-3.webp",
+          "source": "https://statics.trendsi.com/pic/product1/8798c96e-f7fb-4204-a540-5cea39ddedff-Max.webp",
+          "sha256": "eb51021945e9915186d7eec85298a0327bf0703817dad81551fd1c72dfd827fc"
+        }
+      ]
+    },
+    {
+      "id": "406471",
+      "source": "https://www.trendsi.com/products/detail?id=406471&name=Full+Size+Corduroy+Mock+Neck+Lantern+Sleeve+Mini+Dress+Plus+Size&skuId=2787096",
+      "photos": [
+        {
+          "path": "/images/products/406471-1.webp",
+          "source": "https://statics.trendsi.com/product3/f636a324174f42d48eb8693a0432f828-Max.webp",
+          "sha256": "80f03ee3f5648cc2493fd2f32453e0f910e961c1a23eab87828ff18e41c74063"
+        },
+        {
+          "path": "/images/products/406471-2.webp",
+          "source": "https://statics.trendsi.com/pic/product1/af583d78-d89d-435c-84c6-4b84666fd440-Max.webp",
+          "sha256": "22356f54389d7529810119331805d94f73eaffcff91673471271b57ae0a400e7"
+        }
+      ]
+    },
+    {
+      "id": "378202",
+      "source": "https://www.trendsi.com/products/detail?id=378202&name=Striped+Square+Neck+Midi+Dress&skuId=2437142",
+      "photos": [
+        {
+          "path": "/images/products/378202-1.jpg",
+          "source": "https://static-gcp.trendsi.com/pic/product1/6b4ee8c6-a477-4571-aca1-2ac5fe64423a-Min.jpg",
+          "sha256": "203b529c9fc74d31514b1276f04c0347edfe7df94eed45aff2690f3a6b3d877c"
+        },
+        {
+          "path": "/images/products/378202-2.jpg",
+          "source": "https://static-gcp.trendsi.com/pic/product1/2b9fd78a-3e60-4151-896a-cff2a219a67d-Min.jpg",
+          "sha256": "1edf519a92160640ef13a36ee9912a474c392dc807d341a2bc927423212e9238"
+        },
+        {
+          "path": "/images/products/378202-3.jpg",
+          "source": "https://static-gcp.trendsi.com/pic/product1/ac7b0df0-a66e-448f-b06b-2abad8265762-Min.jpg",
+          "sha256": "981f5d1bfa279d78eca4cc54188ddb8d2339a117c448a26e5ad75d7a21167147"
+        }
+      ]
+    },
+    {
+      "id": "398786",
+      "source": "https://www.trendsi.com/products/detail?id=398786&name=Full+Size+Printed+V-Neck+Long+Sleeve+Twisted+Midi+Dress+Plus+Size&skuId=2663876",
+      "photos": [
+        {
+          "path": "/images/products/398786-1.webp",
+          "source": "https://statics.trendsi.com/product3/5d5eeef74ae4427fb6536306a0661888-Max.webp",
+          "sha256": "ddae9108393ba9f63bdaaa0dde6a3003eca60454a8f2080005f31dad3aedf8c7"
+        }
+      ]
+    },
+    {
+      "id": "411352",
+      "source": "https://www.trendsi.com/products/detail?id=411352&name=Corduroy+Patchwork+Plaid+Midi+Dress&skuId=2911814",
+      "photos": [
+        {
+          "path": "/images/products/411352-1.webp",
+          "source": "https://statics.trendsi.com/product3/e52ebae9790848e6ab4bf164dbcd97fa-Max.webp",
+          "sha256": "53f4d96f168511e76fdcf4f351eafc843361ba34f1ed822679f04b42f711dd44"
+        },
+        {
+          "path": "/images/products/411352-2.webp",
+          "source": "https://statics.trendsi.com/product3/462a83106962466e99e80b15e0a1525a-Max.webp",
+          "sha256": "57b82a9d22fade108e9624078f52a6a52e864570d55e6f1ea1520d4729a7f1c3"
+        },
+        {
+          "path": "/images/products/411352-3.webp",
+          "source": "https://statics.trendsi.com/product3/36faae8f56ec4f6d85b0b0d031dc2bdb-Max.webp",
+          "sha256": "d92e1f9ea25a16f91b9844c4d748e50aea649e7e9e5b0029a30f80849de3bd56"
+        }
+      ]
+    },
+    {
+      "id": "246152",
+      "source": "https://www.trendsi.com/products/detail?id=246152&name=Slim-Fit+Elegant+Midi+Dress+with+Beaded+Slit+Sleeve&skuId=1995967",
+      "photos": [
+        {
+          "path": "/images/products/246152-1.webp",
+          "source": "https://statics.trendsi.com/product3/725843bc8e094e04a09f1975548d00bf-Max.webp",
+          "sha256": "b5e5c40f1dc1b4fdab57e6a32ccdf47ae36892a34963212aafce3a8a01ba62fc"
+        },
+        {
+          "path": "/images/products/246152-2.webp",
+          "source": "https://statics.trendsi.com/product3/b6ba2e9391c14fee830b60a40cd6e4ff-Max.webp",
+          "sha256": "9b0c091444e3f0caf83ed9686dfb4d48f652104d3b7c30ce06095b139760b4ec"
+        },
+        {
+          "path": "/images/products/246152-3.webp",
+          "source": "https://statics.trendsi.com/pic/product1/7cfe8a87-fed9-488a-8d8c-8d4f93751958-Max.webp",
+          "sha256": "62b59a50d4c1a19d909dd9b282d8dc91d0fa5dce9a10bf4947b2a967b8f241d6"
+        }
+      ]
+    },
+    {
+      "id": "375111",
+      "source": "https://www.trendsi.com/products/detail?id=375111&name=Casual+Button-Down+Half+Sleeve+Denim+Dress&skuId=2387533",
+      "photos": [
+        {
+          "path": "/images/products/375111-1.jpg",
+          "source": "https://static-gcp.trendsi.com/pic/product1/6c5b5416-7851-4bd5-bc79-8ceaf57e5c6e-Min.jpg",
+          "sha256": "72637adb002c8e64e982a0e565e7b5d7c2c88e6dc5d7d739c6c95fd21d3aa558"
+        },
+        {
+          "path": "/images/products/375111-2.jpg",
+          "source": "https://static-gcp.trendsi.com/pic/product1/29de3977-d260-4701-bd1d-ae56a94cda64-Min.jpg",
+          "sha256": "530a862156deab4f510f2b4324b279e11e94f05c996d3fb5ac670aa945f5a0b4"
+        },
+        {
+          "path": "/images/products/375111-3.jpg",
+          "source": "https://static-gcp.trendsi.com/pic/product1/d519f31b-74e7-43bd-8535-97431d654da1-Min.jpg",
+          "sha256": "99c3289f463fcd8372a5fb6d161ca66196551ff4edf2592f9e5e3b3ea0e728f1"
+        }
+      ]
+    },
+    {
+      "id": "79157",
+      "source": "https://www.trendsi.com/products/detail?id=79157&name=Ditsy+Floral+Tie+Waist+Pleated+Dress&skuId=655828",
+      "photos": [
+        {
+          "path": "/images/products/79157-1.webp",
+          "source": "https://statics.trendsi.com/pic/product1/a19ac38e-3758-49ac-aaf0-f87a0b7fb2c6-Max.webp",
+          "sha256": "9e18f22373033d035be858908c9bfa96177c73e9a4cd94dcaebf7fb700822bbf"
+        },
+        {
+          "path": "/images/products/79157-2.webp",
+          "source": "https://statics.trendsi.com/pic/product1/7da9c098-596f-4aa4-94c5-b100e0272b8e-Max.webp",
+          "sha256": "79323aff63c9b5c3cf57399f21ab2910f37cce09ed70825b3fc0e636d6ecb927"
+        },
+        {
+          "path": "/images/products/79157-3.webp",
+          "source": "https://statics.trendsi.com/pic/product1/f757f4ee-8360-41f5-b674-4ecfad545f20-Max.webp",
+          "sha256": "9a3f94b9601fa57b14cb0c90878933b25824b562207dd9293130fb0a728fe7c3"
+        }
+      ]
+    },
+    {
+      "id": "87798",
+      "source": "https://www.trendsi.com/products/detail?id=87798&name=Perfee+High-Low+Printed+V-Neck+Cap+Sleeve+Midi+Dress&skuId=699851",
+      "photos": [
+        {
+          "path": "/images/products/87798-1.webp",
+          "source": "https://statics.trendsi.com/pic/product1/0681b66e-d228-4c25-a04a-4e64342a3160-Max.webp",
+          "sha256": "c9d0c36d090aba69105f57916c7719840b4cf100118dd5d2a1dd0ed37f7577ed"
+        },
+        {
+          "path": "/images/products/87798-2.webp",
+          "source": "https://statics.trendsi.com/pic/product1/0c92f66a-86f7-42bf-82f2-23b72c346120-Max.webp",
+          "sha256": "5c925f24c2cd105245f60f753e94cf22d88a840edc92b12cce6e1c59dcba46c8"
+        },
+        {
+          "path": "/images/products/87798-3.webp",
+          "source": "https://statics.trendsi.com/pic/product1/505b3eab-9f1b-443e-9675-bc622a4c5075-Max.webp",
+          "sha256": "40bdf6656b75415e5284ac0cdd95ef11556dfdfea5101343f57352c01233c994"
+        }
+      ]
+    },
+    {
+      "id": "406182",
+      "source": "https://www.trendsi.com/products/detail?id=406182&name=Full+Size+Sleeveless+Tiered+Mini+Dress+Plus+Size&skuId=2780517",
+      "photos": [
+        {
+          "path": "/images/products/406182-1.webp",
+          "source": "https://statics.trendsi.com/product2/1592353b23a444e7a0dbf289c40a347c-Max.webp",
+          "sha256": "eee7825316fde090abbccc313dd6f6d7bc4e15765c490264c0cf85eb9723f396"
+        },
+        {
+          "path": "/images/products/406182-2.webp",
+          "source": "https://statics.trendsi.com/pic/product1/bc5d29af-115a-40e6-8f74-d690724968a2-Max.webp",
+          "sha256": "aad98d406bf96456f7e93e5127e692a7144f214eb91bdde3b52f4a40e3cbf884"
+        }
+      ]
+    }
+  ]
+}

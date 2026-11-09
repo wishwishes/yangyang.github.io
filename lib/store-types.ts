@@ -1,0 +1,7 @@
+export type Measurement={size:string;values:Record<string,string>};
+export type Product={id:string;name:string;brand:string;category:string;color:string;hex:string;background:string;description:string;fabric:string;care:string;price:number|null;sizes:string[];images:string[];image:string;measurements:Measurement[];measurementNote:string;sourceUrl:string;supplierSku:string;available:boolean;verified:boolean;stock:number;published:boolean;imageRightsConfirmed:boolean;fulfillmentConfirmed:boolean;notes?:string};
+export type CartItem={id:string;size:string;quantity:number};
+export type Settings={shippingDescription:string;returnsDescription:string;announcement:string};
+export const defaults:Settings={shippingDescription:'We are preparing delivery to the United States. Shipping cost, dispatch location and delivery estimates will be confirmed before payment. No payment is collected for an availability request.',returnsDescription:'Orders are not yet open. Before purchasing, you will receive the applicable return window, condition requirements, return address, shipping responsibility and refund timing. Please contact us before sending a return.',announcement:'Our first dress collection · Availability requests are open'};
+export const store={name:'Liang Nü Zhuang',email:'yangyang36656@126.com',currency:'USD',salesEnabled:false,maxQuantity:5};
+export const money=(cents:number)=>new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'}).format(cents/100);
