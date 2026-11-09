@@ -1,4 +1,4 @@
 import Storefront from './storefront';
-import {catalog,settings,publicProduct} from '../lib/store-server';
+import {publicCatalogData} from '../lib/commerce-server';
 export const dynamic='force-dynamic';
-export default async function Home(){return <Storefront initialProducts={(await catalog()).map(publicProduct)} initialSettings={await settings()}/>;}
+export default async function Home(){const data=await publicCatalogData();return <Storefront initialProducts={data.products} initialSettings={data.settings} initialCheckout={data.checkoutEnabled}/>;}
